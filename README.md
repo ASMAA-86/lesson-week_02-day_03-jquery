@@ -13,7 +13,7 @@
 	*	Animation
 	*	and more!
 
-<img width="500" alt="jquery-dom" src="https://user-images.githubusercontent.com/5384023/51519572-6a2c5880-1e32-11e9-99a0-000e18b63417.png">
+<img width="1000" alt="jquery-dom" src="https://user-images.githubusercontent.com/5384023/51519572-6a2c5880-1e32-11e9-99a0-000e18b63417.png">
 
 
 ## Including jQuery
@@ -38,9 +38,9 @@ __Syntax:__ Spelling and grammar rules of a programming language.
 Note:
 Like with any language, there are formal rules around how to write it. This is the syntax.
 
-<img width="500" alt="jquery-select" src="https://user-images.githubusercontent.com/5384023/51520047-c0e66200-1e33-11e9-9d73-04d2d582e45b.png">
+<img width="1000" alt="jquery-select" src="https://user-images.githubusercontent.com/5384023/51520047-c0e66200-1e33-11e9-9d73-04d2d582e45b.png">
 
-<img width="500" alt="jquery-css-select" src="https://user-images.githubusercontent.com/5384023/51520072-d3609b80-1e33-11e9-90f0-3798bb5b4966.png">
+<img width="1000" alt="jquery-css-select" src="https://user-images.githubusercontent.com/5384023/51520072-d3609b80-1e33-11e9-90f0-3798bb5b4966.png">
 
 ### $
 

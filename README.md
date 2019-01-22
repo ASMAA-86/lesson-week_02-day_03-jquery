@@ -75,7 +75,7 @@ Read more about [jQuery selectors](https://learn.jquery.com/using-jquery-core/se
 
 Once we select an element, we may want to get information from it like the text in the element or the value in a form.  jQuery provides us with methods that we can use to get information from an element.
 
-Example 1
+*Example 1*
 ```html
 <h1>Hello World</h1>
 ```
@@ -83,7 +83,7 @@ Example 1
 $('h1').text() // Hello World
 ```
 
-Example 2
+*Example 2*
 ```html
 <ul>
     <li>Riyadh</li>
@@ -99,7 +99,7 @@ $('ul').html() // ??
 
 When we select an element, may want to change the information like update the text in the element or add html to an element.  jQuery provides us with methods that we can use to set information of an element.
 
-Example 1
+*Example 1*
 ```html
 <h1>Hello World</h1>
 ```
@@ -107,7 +107,7 @@ Example 1
 $('h1').text('Goodbye World')
 ```
 
-Example 2
+*Example 2*
 ```html
 <ul>
     <li>Riyadh</li>
@@ -146,7 +146,7 @@ Discuss the difference between
 
 We can also manipulate our html attributes or css properties with jQuery.
 
-Example 1
+*Example 1*
 ```html
 <img src='https://picsum.photos/200/300'>
 ```
@@ -158,7 +158,7 @@ $('img').attr('src') // 'https://picsum.photos/200/300'
 $('img').attr('src', 'https://picsum.photos/200/100')
 ```
 
-Example 2
+*Example 2*
 ```html
 <p id='main-text'>Hello World</p>
 ```

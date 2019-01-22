@@ -167,7 +167,7 @@ Example 2
 $('p').attr('id') // 'main-text'
 
 // SET
-$('p').attr('id', 'new-class) 
+$('p').attr('id', 'new-class') 
 ```
 
 Discuss the difference between
